@@ -1,7 +1,7 @@
 #!/bin/bash
 #######################################################
 # Linux Server Benchmark
-# Website: https://cuongquach.com/
+# Website: https://systemdesignarc.wordpress.com/
 #######################################################
 
 # Color
@@ -265,7 +265,7 @@ main() {
     speed
 
     # Information
-    echo "Visit website: https://cuongquach.com/"
+    echo "Visit website: https://systemdesignarc.wordpress.com/"
 }
 
 main

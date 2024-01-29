@@ -1,3 +1,9 @@
+---
+runme:
+  id: 01HN9GDFM5T2MF1887B1ER2W8H
+  version: v2.2
+---
+
 # linux-server-benchmark
 
 This script will help you to benchmark your Linux Server. From that you can understand more about the power of your Linux server.
@@ -11,13 +17,13 @@ This script will help you to benchmark your Linux Server. From that you can unde
 
 ## Usage
 
-```
-# curl -Lso- https://raw.githubusercontent.com/cuongquach/linux-server-benchmark/main/linux-server-benchmark.sh | bash
+```sh {"id":"01HN9GDFM4H0D15X830R08BRTK"}
+# curl -Lso- https://raw.githubusercontent.com/jimmynguyen13/linux-server-benchmark/main/linux-server-benchmark.sh | bash
 ```
 
 ## Example Output
 
-```
+```f90 {"id":"01HN9GDFM4H0D15X830SWEYB5T"}
 System Information
 ----------------------------------------------------------------------
 CPU model            : Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz
@@ -90,4 +96,4 @@ FPT Telecom, Ho Chi Minh, VN            1.55.119.15     11.1MB/s
 
 ## Visit
 
-**Website** : [https://cuongquach.com/](https://cuongquach.com/)
+**Website** : [https://systemdesignarc.wordpress.com/](https://systemdesignarc.wordpress.com/)
