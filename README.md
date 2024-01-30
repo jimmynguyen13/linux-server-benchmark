@@ -18,7 +18,7 @@ This script will help you to benchmark your Linux Server. From that you can unde
 ## Usage
 
 ```sh {"id":"01HN9GDFM4H0D15X830R08BRTK"}
-# curl -Lso- https://raw.githubusercontent.com/jimmynguyen13/linux-server-benchmark/main/linux-server-benchmark.sh | bash
+curl -Lso- https://raw.githubusercontent.com/jimmynguyen13/linux-server-benchmark/main/linux-server-benchmark.sh | bash
 ```
 
 ## Example Output
